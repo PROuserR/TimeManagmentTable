@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # TimeManagmentTable
 Manage your weekly routines and appointments with ease
 <img src="Screenshots/Screenshot%202025-05-01%20160333.png">
-<img src="Screenshots/Screenshot%202025-05-01%20160413.png)">
+<img src="Screenshots/Screenshot%202025-05-01%20160413.png">
