@@ -35,6 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # TimeManagmentTable
-Manage your weekly routines and appointments with ease
+<i>Manage your weekly routines and appointments with ease</i>
+
 <img src="Screenshots/Screenshot%202025-05-01%20160333.png">
 <img src="Screenshots/Screenshot%202025-05-01%20160413.png">
