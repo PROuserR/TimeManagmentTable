@@ -1,14 +1,34 @@
-# TimeManagmentTable
-<i>Manage your weekly routines and appointments with ease</i>
-<br/>
+# ⏳ Time Management Table
 
+## 🚀 Introduction
+Welcome to **Time Management Table**—your ultimate tool for organizing tasks, boosting productivity, and taking control of your schedule! Built using **React** and **Next.js**, this intuitive and dynamic table helps you plan your time effectively with a sleek UI and smooth functionality.
 
+## ✨ Features
+- **Interactive Time Blocks** 🕒: Easily allocate and modify time slots.
+- **Data Persistence** 🔄: Keeps your tasks saved even after refresh.
+
+## 🛠️ Technologies Used
+- **React** ⚛️: For dynamic and interactive UI.
+- **Next.js** 🚀: For optimized performance and SEO.
+- **Tailwind CSS** 🎨: For a clean and modern design.
+- **Local Storage** 💾: For saving user data.
+
+## 🏗️ Installation
+Clone the repository and install dependencies:
+```bash
+git clone https://github.com/your-username/TimeManagementTable.git
+cd TimeManagementTable
+npm install
+```
+
+## 📸 Screenshots
 <img src="Screenshots/Screenshot%202025-05-01%20160333.png">
 <img src="Screenshots/Screenshot%202025-05-01%20160413.png">
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
